@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+* 📝  [ticket-008] doc updates. PR [#8](https://github.com/rickhaffey/changelog-auto/pull/8) by [@rickhaffey](https://github.com/rickhaffey).
+
 ### Refactors
 
 * [ticket-007] Ticket 007 refactor. PR [#7](https://github.com/rickhaffey/changelog-auto/pull/7) by [@rickhaffey](https://github.com/rickhaffey).
