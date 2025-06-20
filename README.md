@@ -7,3 +7,4 @@ Goal is to configure it to support the [Keep A Changelog](https://keepachangelog
 
 ### Latest Changes
 
+* [ticket-002] add feature 2. PR [#2](https://github.com/rickhaffey/changelog-auto/pull/2) by [@rickhaffey](https://github.com/rickhaffey).
