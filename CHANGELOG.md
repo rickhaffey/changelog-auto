@@ -7,5 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-
 [unreleased]: https://github.com/rickhaffey/changelog-auto/compare/v0.0.0...HEAD
+
+### Features
+
+* [ticket-005] add feature 5. PR [#5](https://github.com/rickhaffey/changelog-auto/pull/5) by [@rickhaffey](https://github.com/rickhaffey).
