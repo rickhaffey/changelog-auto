@@ -1,0 +1,7 @@
+[project]
+name = "changelog-auto"
+version = "0.1.0"
+description = "Demo app for automated changelog"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
